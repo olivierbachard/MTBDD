@@ -1,0 +1,1 @@
+This project uses JNI to implement a java package that handles BDD and ADD functions of the CUDD library in C.
